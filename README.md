@@ -1,6 +1,6 @@
 # Recipe Manager Life
 
-#### URL : https://recipemanagerlife.herokuapp.com/recipe.html
+#### URL : https://recipemanagerlife.herokuapp.com/
 
 #### Video Demo:  <URL >
 
