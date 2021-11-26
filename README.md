@@ -2,7 +2,7 @@
 
 #### URL : https://recipemanagerlife.herokuapp.com/
 
-#### Video Demo:  <URL >
+#### Video Demo:  https://youtu.be/zy2LF7-J85w
 
 #### Description:
 
